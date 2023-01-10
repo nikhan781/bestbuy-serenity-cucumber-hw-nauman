@@ -1,0 +1,18 @@
+NAME,TYPE,ADDRESS,ADDRESS2,CITY,STATE,ZIP,LAT,LNG,HOURS
+MineCan,BigBox2,20 Coventry,CV 25,Coventry,Wembly,54505,46,48,Fri: 10-9
+MineCan,BigBox1,40 Coventry,CV 40,London,Harrow,54506,43,51,Tue: 10-9
+MineCan,BigBox2,40 Coventry,CV 25,Birmingham,Harrow,54506,43,51,Thurs: 10-9
+MineCan,BigBox2,10 Coventry,CV 25,Coventry,West Midland,54506,43,51,Sat: 10-9
+MineCan,BigBox2,20 Coventry,CV 40,Coventry,Harrow,54506,44,51,Thurs: 10-9
+ZingBan,BigBox2,40 Coventry,CV 40,Birmingham,Harrow,54507,44,48,Sun: 10-8
+HockBen,BigBox2,20 Coventry,CV 20,Coventry,Harrow,54507,43,48,Tue: 10-9
+ZingBan,BigBox1,40 Coventry,CV 20,Birmingham,Wembly,54507,43,45,Fri: 10-9
+HockBen,BigBox2,10 Coventry,CV 25,Coventry,Wembly,54506,44,48,Sun: 10-8
+HockBen,BigBox1,20 Coventry,CV 40,Birmingham,Harrow,54505,44,48,Tue: 10-9
+ZingBan,BigBox2,10 Coventry,CV 25,Coventry,Wembly,54507,46,48,Tue: 10-9
+ZingBan,BigBox2,40 Coventry,CV 20,Coventry,West Midland,54507,43,48,Tue: 10-9
+ZingBan,BigBox1,40 Coventry,CV 25,Birmingham,Harrow,54505,44,45,Fri: 10-9
+MineCan,BigBox2,10 Coventry,CV 40,Coventry,West Midland,54505,44,51,Tue: 10-9
+HockBen,BigBox2,20 Coventry,CV 40,London,Harrow,54507,46,48,Sat: 10-9
+
+
